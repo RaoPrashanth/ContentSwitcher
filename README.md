@@ -1,4 +1,4 @@
 # ContentSwitcher
 
-![]contentswitcher.gif)
+![](contentswitcher.gif)
 
