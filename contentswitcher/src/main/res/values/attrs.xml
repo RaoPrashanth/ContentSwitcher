@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ContentSwitcherView">
+
+        <attr name="leftSideText" format="string" />
+        <attr name="rightSideText" format="string" />
+
+        <attr name="leftSideColor" format="color" />
+        <attr name="rightSideColor" format="color" />
+
+        <attr name="leftSideTextColor" format="color" />
+        <attr name="rightSideTextColor" format="color" />
+
+        <attr name="leftSideTextSize" format="integer" />
+        <attr name="rightSideTextSize" format="integer" />
+
+        <attr name="selectedTextSize" format="integer" />
+        <attr name="nonSelectedTextSize" format="integer" />
+
+        <attr name="selectedTextColor" format="color" />
+        <attr name="nonSelectedTextColor" format="color" />
+
+        <attr name="leftSideLeftImage" format="reference" />
+        <attr name="leftSideRightImage" format="reference" />
+
+        <attr name="rightSideLeftImage" format="reference" />
+        <attr name="rightSideRightImage" format="reference" />
+    </declare-styleable>
+</resources>
